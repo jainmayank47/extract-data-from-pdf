@@ -1,0 +1,10 @@
+# requests
+# python-freeDictionaryAPI[sync-client]
+# beautifulsoup4
+certifi==2019.6.16
+chardet==3.0.4
+idna==2.8
+oxforddictionaries==0.1.101
+requests==2.22.0
+urllib3==1.26.5
+PyPDF2
